@@ -2,7 +2,7 @@ import { utils, Wallet } from 'zksync-web3';
 import * as ethers from 'ethers';
 import { HardhatRuntimeEnvironment } from 'hardhat/types';
 import { Deployer } from '@matterlabs/hardhat-zksync-deploy';
-import { load } from 'ts-dotenv'
+import { load } from 'ts-dotenv';
 
 const env = load({
   WALLET_PRIVATE_KEY: String
