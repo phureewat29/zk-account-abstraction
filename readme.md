@@ -1,4 +1,4 @@
-# Account Abstraction
+# Account Abstraction on zkSync
 
 An Account Abstraction implementation on zkSync
 
